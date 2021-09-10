@@ -18,7 +18,6 @@ for mes in lista_meses:
             from_='+15039173990',
             body='No mês de {} alguém bateu a meta! Vencedor: {}, Vendas: {}'.format(mes,vendedor,vendas))
         print(message.sid)
-#Any significa algum valor
 
 
 
